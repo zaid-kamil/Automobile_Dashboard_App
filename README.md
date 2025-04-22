@@ -1,5 +1,7 @@
 # Automobile Dashboard App
 
+[Video Demo](https://www.youtube.com/watch?v=SqKjYOzeKZw)
+
 This repository contains a Streamlit application for analyzing automobile data. The app provides various functionalities to visualize and explore the data, including numerical analysis, textual analysis, and correlation analysis.
 
 ## Features
